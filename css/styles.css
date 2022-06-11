@@ -188,6 +188,13 @@
   letter-spacing: 0.03em;
   font-style: normal;
 }
+
+.footer-address:hover,
+.footer-address:focus,
+.footer-link:hover,
+.footer-link:focus {
+  color: var(--accent-color);
+}
 /*=====Portfolio=====*/
 
 .portfolio-button {
